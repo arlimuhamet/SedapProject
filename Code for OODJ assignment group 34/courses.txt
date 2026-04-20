@@ -1,0 +1,6 @@
+D201;Database Systems;Introduction to relational databases, SQL, normalization, and data modeling;3
+N222;Networking Fundamentals;Covers OSI model, protocols, routing, switching, and network configuration;3
+C101;Object-Oriented Programming;Fundamentals of OOP: classes, objects, inheritance, polymorphism, and Java programming;4
+P212;Physics II;Electricity, magnetism, waves, and applications in engineering physics;4
+M205;Advanced Mathematics;Functions, linear algebra, differential equations, and analytical problem solving;3
+A101;Artificial Intelligence;Introduction to AI, machine learning, and neural networks;4

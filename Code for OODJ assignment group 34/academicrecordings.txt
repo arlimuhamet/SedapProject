@@ -1,0 +1,7 @@
+alan.abakirov@gmail.com;D201,Database Systems,3,1.9,Achieve B+,Pass all assignments,None,None;N222,Networking Fundamentals,3,1.4,None,None,Focus on protocols,None
+arlimuhamet@gmail.com;N222,Networking Fundamentals,3,1.2,None,None,Focus on protocols,None;A101,Artificial Intelligence,3,1.3,Achieve A-,Pass all assignments,Be John Pork,None
+as2007nik@gmail.com;N222,Networking Fundamentals,3,1.1,None,None,Focus on protocols,None;M205,Advanced Mathematics,3,1.8,Achieve B+,Pass all assignments,None,None
+diana.wilson@university.edu;D201,Database Systems,3,1.8,Achieve B+,Pass all assignments,None,None;N222,Networking Fundamentals,3,1.4,None,None,Focus on protocols,None
+bob.johnson@university.edu;C101,Object-Oriented Programming,4,1.9,Extra assignment,Math tutoring,Attend workshops,2;A101,Artificial Intelligence,4,3.2,None,None,None,None
+ivan@gmail.com;C101,Object-Oriented Programming,4,1.9,Extra assignment,Math tutoring,Attend workshops,2;A101,Artificial Intelligence,4,3.2,None,None,None,None
+alice.smith@university.edu;N222,Networking Fundamentals,3,3.2,None,None,Focus on protocols,None;A101,Artificial Intelligence,4,3.6,None,None,None,None

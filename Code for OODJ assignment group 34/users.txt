@@ -1,0 +1,23 @@
+arlimuhamet@gmail.com;Arli Mukhamed;1234;Student;IT;Year 2
+dr.kumar@university.edu;Dr. Kumar;kumarDoc77;Lecturer;N222
+prof.miller@university.edu;Dr. Miller;1234;Lecturer;D201
+lecturer@apu.edu;John Doe;pass123;Lecturer;C101
+dr.chen@university.edu;Prof. Chen;chenProf88;Lecturer;M205
+bob.johnson@university.edu;Bob Johnson;123;Student;Physics;Year 1
+diana.wilson@university.edu;Diana Wilson;diana#456;Student;Computer Science;Year 2
+lulu@mail.com;Lulu Chen;1234;CourseAdministrator;
+admin.backup@university.edu;Kolyan;1234;CourseAdministrator;
+ivan@gmail.com;Ivan Pupkin;12345;Student;IT;Year 2
+officer.senior@university.edu;Senior Officer;pull;AcademicOfficer;
+assistant.officer@university.edu;Assistant Officer;1234;AcademicOfficer;
+alan.abakirov@gmail.com;Alan Abakirov;12345;Student;D201;Year 3
+isataikismanov@gmail.com;Dr. Issatay;1234;Lecturer;A101
+junior.officer@university.edu;Junior Officer;juniorOfficer2025;AcademicOfficer;
+as2007nik@gmail.com;Nikolai Ashikhmin;1234;Student;Engineering;Year 1
+admin.courses@university.edu;Course Admin;coursesAdmin2025;CourseAdministrator;
+alanabakirov@gmail.com;Alan Abakirov;123;CourseAdministrator;
+officer.academic@university.edu;Academic Officer;academicAdmin123;AcademicOfficer;
+vanyapup@gmail.com;Vanya Pupkov;newVanyaPass;Student;Computer Science;Next Level
+charlie.lee@university.edu;charlielee@gmail.com;123;Student;Engineering;Year 3
+prof.davis@university.edu;Prof. Davis;davisProf55;Lecturer;P212
+alice.smith@university.edu;Alice Smith;alicePass2025;Student;Mathematics;Year 3
